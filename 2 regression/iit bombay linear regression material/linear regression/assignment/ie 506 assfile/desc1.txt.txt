@@ -1,0 +1,62 @@
+Body measurements of 446 physically active individuals.
+
+Description
+Body girth measurements and skeletal diameter measurements, as well as age, weight and gender, are given for 446 physically active individuals - 223 men and 223 women. 
+
+Format
+A data frame with 446 observations on the following 18 variables.
+
+attr1
+A numerical vector, respondent's biacromial diameter in centimeters.
+
+attr2
+A numerical vector, respondent's biiliac diameter (pelvic breadth) in centimeters.
+
+attr3
+A numerical vector, respondent's bitrochanteric diameter in centimeters.
+
+attr4
+A numerical vector, respondent's elbow diameter in centimeters, measured as sum of two elbows.
+
+attr5
+A numerical vector, respondent's wrist diameter in centimeters, measured as sum of two wrists.
+
+attr6
+A numerical vector, respondent's knee diameter in centimeters, measured as sum of two knees.
+
+attr7
+A numerical vector, respondent's ankle diameter in centimeters, measured as sum of two ankles.
+
+attr8
+A numerical vector, respondent's shoulder girth in centimeters, measured over deltoid muscles.
+
+attr9
+A numerical vector, respondent's waist girth in centimeters, measured at the narrowest part of torso below the rib cage as average of contracted and relaxed position.
+
+attr10
+A numerical vector, respondent's bicep girth in centimeters, measured when flexed as the average of right and left girths.
+
+attr11
+A numerical vector, respondent's forearm girth in centimeters, measured when extended, palm up as the average of right and left girths.
+
+attr12
+A numerical vector, respondent's knee girth in centimeters, measured as sum of two knees.
+
+attr13
+A numerical vector, respondent's calf maximum girth in centimeters, measured as average of right and left girths.
+
+attr14
+A numerical vector, respondent's ankle minimum girth in centimeters, measured as average of right and left girths.
+
+attr15
+A numerical vector, respondent's wrist minimum girth in centimeters, measured as average of right and left girths.
+
+attr16
+A numerical vector, respondent's age in years.
+
+attr17
+A categorical vector, 1 if the respondent is male, 0 if female.
+
+attr18
+A numerical vector, respondent's weight in kilograms.
+
